@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/adamsaa1300/web2-assi2.git/static/css/main.258bec31.css",
+    "main.js": "/adamsaa1300/web2-assi2.git/static/js/main.afa4fca1.js",
+    "static/js/453.6ac8af76.chunk.js": "/adamsaa1300/web2-assi2.git/static/js/453.6ac8af76.chunk.js",
+    "index.html": "/adamsaa1300/web2-assi2.git/index.html",
+    "main.258bec31.css.map": "/adamsaa1300/web2-assi2.git/static/css/main.258bec31.css.map",
+    "main.afa4fca1.js.map": "/adamsaa1300/web2-assi2.git/static/js/main.afa4fca1.js.map",
+    "453.6ac8af76.chunk.js.map": "/adamsaa1300/web2-assi2.git/static/js/453.6ac8af76.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.258bec31.css",
+    "static/js/main.afa4fca1.js"
+  ]
+}
